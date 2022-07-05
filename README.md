@@ -29,5 +29,5 @@ Après différentes expériences,  je continues de grandir avec des projets open
 ## Savoir-être :
 Bienveillance, organisation, aisance relationnelle, ponctualité, esprit d'analyse, perspicacité.
 
-Un peu de stats
+## stats :
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibra-d)
