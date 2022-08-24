@@ -16,10 +16,13 @@ Après différentes expériences,  je continues de grandir avec des projets open
 ## 🔭 Les technos avec lesquelles je travaille:
 * React (Apprentissage...)
 * VueJs,
+* NuxtJs,
 * HTML5,
 * CSS3,
 * Sass,
+* Tailwind,
 * JavaScript,
+* Firebase
 
 ## Les technos/sujets qui m'intéressent :
 * React-Native,
